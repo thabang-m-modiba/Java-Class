@@ -16,9 +16,6 @@
 
 <code>
   public class Student{
-     private int studentNo;
-     private String studentName;
-     private Strinf faculty;
   
   }
 </code>
