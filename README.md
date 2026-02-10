@@ -2,6 +2,12 @@
 ## Learning Java at the Great University of Johannesburg (Computer Sciences 3A)
 
 ## Java Programming
+### Topics to cover:
+* Classes, Types and Objects
+* Methods
+* Expressions
+* Control Flow
+* Arrays
 ### Classes, Types and Objects
 * In Java, <b>Classes</b> act as blueprints for creating <b>Objects</b>.
 * An <b>Object</b> is an instance of a class.
