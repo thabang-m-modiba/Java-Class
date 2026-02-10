@@ -8,3 +8,21 @@
 * <b>Type</b> refers to the classification that a variable can hold. We have Primitive Types and Reference Types.
    * Primitive Types includes <code>int</code>, <code>boolean</code>, <code>char</code>, <code>double</code>.
    * Reference Types are types that refer to Objects, including classes, interfaces, and arrays.
+
+
+ #### Declaring a Class
+ * To declare a Class means to define the blueprint that describes how an Object will look like and how it will behave.
+ * Example of a Class named Car:
+<code>
+public class Car{
+    private int carNum;
+    private String carModel;
+    private double carPrice;
+
+    public Car(int carNum, String carModel, double carPrice){
+        this.carNum = carNum;
+        this.carModel = carModel;
+        this.carPrice = carPrice;
+    }
+}
+</code>
