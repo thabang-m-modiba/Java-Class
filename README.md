@@ -3,5 +3,5 @@
 
 ## Java Programming
 ### Classes, Types and Objects
-* In Java, Classes act as blueprints for creating objects.
+* In Java, <b>Classes</b> act as blueprints for creating <b>Objects</b>.
 * <b>Type</b> refers to the classification that a variable can hold
