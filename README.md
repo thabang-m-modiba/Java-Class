@@ -4,4 +4,7 @@
 ## Java Programming
 ### Classes, Types and Objects
 * In Java, <b>Classes</b> act as blueprints for creating <b>Objects</b>.
-* <b>Type</b> refers to the classification that a variable can hold
+* An <b>Object</b> is an instance of a class.
+* <b>Type</b> refers to the classification that a variable can hold. We have Primitive Types and Reference Types.
+   * Primitive Types includes <code>int</code>, <code>boolean</code>, <code>char</code>, <code>double</code>.
+   * Reference Types are types that refer to Objects, including classes, interfaces, and arrays.
