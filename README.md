@@ -14,7 +14,7 @@
  * To declare a Class means to define the blueprint that describes how an Object will look like and how it will behave.
  * Example of a Class named Car:
 
-<code>
+
 public class Car{
     private int carNum;
     private String carModel;
@@ -26,4 +26,4 @@ public class Car{
         this.carPrice = carPrice;
     }
 }
-</code>
+
