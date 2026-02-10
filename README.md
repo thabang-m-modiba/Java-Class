@@ -14,9 +14,5 @@
  * To declare a Class means to define the blueprint that describes how an Object will look like and how it will behave.
  * Example of a Class named Car:
 
-<code>
-  public class Student{
-  
-  }
-</code>
+<code>public class Student{}</code>
 
